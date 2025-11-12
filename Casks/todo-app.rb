@@ -7,7 +7,7 @@ cask "todo-app" do
   end
 
   on_arm do
-    sha256 "98ad0c649361a5446f3e72f5aac254de32736815c9e00e110ab6ed64cd1572b6"
+    sha256 "f4f2465d5887ed97d64234d69f9ec3c0b9d05e41ad9d2fa263959315b4314748"
     url "https://github.com/lilfourn/Todo-App/releases/download/v#{version}/Todo.App_#{version}_aarch64.dmg"
   end
 
